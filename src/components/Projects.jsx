@@ -35,6 +35,14 @@ const projects = [
     image: "/lead.png",
     github: "https://github.com/ARAVINDM12/LEAD-ENRICHMENT-BOT",
     demo: "https://lead-enrichment-bot-am12.streamlit.app/"
+  },
+  {
+    title: "VIT TATKAL BOOKING SYSTEM",
+    description: "An internal Tatkal booking request system for managing and tracking VIT students' urgent travel needs efficiently with admin controls.",
+    tags: ["Python", "Streamlit","SMTP"],
+    image: "/vitatkal.png",
+    github: "https://github.com/ARAVINDM12/VITATKAL",
+    demo: "https://vitatkal.streamlit.app/"
   }
 ]
 
