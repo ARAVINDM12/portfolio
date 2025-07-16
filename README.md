@@ -1,3 +1,29 @@
+# 🚀 Personal Portfolio Website
+
+This is a modern, responsive, and animated portfolio website built using **React.js**, **Tailwind CSS**, **ShadCN UI**, and **Framer Motion**. It showcases my skills, projects, achievements, and contact information in a clean and professional format.
+
+## ✨ Tech Stack
+
+- ⚛️ React JS – Component-based UI architecture
+- 🎨 Tailwind CSS – Utility-first styling for rapid design
+- 🧱 ShadCN UI – Accessible and elegant prebuilt components
+- 🎞️ Framer Motion – Smooth animations and transitions
+
+## 📌 Features
+
+- 🧑‍💻 About Me, Skills, and Experience sections
+- 📂 Project showcase with live links and GitHub
+- 📱 Fully responsive design (mobile/tablet/desktop)
+- 💫 Scroll-based animations and interactive UI
+- 📮 Contact section with social media integration
+
+## 🌐 Live Demo
+
+👉 [Click to Visit Portfolio](https://aravindm12.github.io/portfolio)
+
+## 🗂️ Folder Structure (React App)
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
