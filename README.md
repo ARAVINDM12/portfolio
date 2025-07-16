@@ -19,7 +19,7 @@ This is a modern, responsive, and animated portfolio website built using **React
 
 ## 🌐 Live Demo
 
-👉 [Click to Visit Portfolio](https://aravindm12.github.io/portfolio)
+👉 [Click to Visit Portfolio](https://portfolio-am12.vercel.app/)
 
 ## 🗂️ Folder Structure (React App)
 
