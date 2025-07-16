@@ -37,7 +37,7 @@ const projects = [
     demo: "https://lead-enrichment-bot-am12.streamlit.app/"
   },
   {
-    title: "VIT TATKAL BOOKING SYSTEM",
+    title: "VIT Tatkal Booking System",
     description: "An internal Tatkal booking request system for managing and tracking VIT students' urgent travel needs efficiently with admin controls.",
     tags: ["Python", "Streamlit","SMTP"],
     image: "/vitatkal.png",
